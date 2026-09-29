@@ -1,0 +1,19 @@
+# Baile na Laje: funk carioca tamborzão. Kick and low tom trade the 3-3-2
+# tresillo (steps 1-4-7 | 9-12-15), claps on 2 and 4, a shaker accenting the
+# same cells, and a big 808 under the kicks. A high tom (^) answers each bar.
+#   street beat --pattern examples/patterns/baile-tamborzao.groove
+
+title   Baile na Laje
+bpm     130
+swing   54%
+key     Am
+style   funk
+chords  Am | Am | G | G
+
+#         1    2    3    4
+kick    | x... .... x... .... |
+tom     | ...o ..o. ...o ..^. |
+clap    | .... x... .... x..g |
+shaker  | xggx ggxg xggx ggxg |
+rim     | .... .o.. .... .o.. |
+bass    | x... .... x... .... |

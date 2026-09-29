@@ -1,0 +1,18 @@
+# Rooftop: half-time trap. Clap on beat 3, 1/32 (r) and triplet (t) hat rolls,
+# and an 808 that swoops up an octave (^) and slides back home (~).
+#   street beat --pattern examples/patterns/rooftop-trap.groove
+
+title   Rooftop
+bpm     142
+key     F#m
+style   trap
+chords  F#m D | A E
+
+#         1    2    3    4      1    2    3    4
+kick    | x... ...o ..x. .... | x... .... ..xo ...o |
+clap    | .... .... x... .... | .... .... x... .... |
+snare   | .... .... o... .... | .... .... o... ..tt |
+hat     | x.o. x.rr x.o. x... | x.o. x.o. x.ot x.TT |
+openhat | .... .... .... ..o. | .... .... .... .... |
+bass    | x... ...o ..x. ..^. | ~... .... ..xo ...o |
+keys    | o... .... .... .... | o... .... .... .... |

@@ -1,0 +1,18 @@
+# Sunday Stoop: a two-bar boom-bap groove over jazzy minor changes.
+#   street beat --pattern examples/patterns/sunday-stoop.groove
+#   street beat --pattern examples/patterns/sunday-stoop.groove --style lofi   (same groove, lo-fi kit)
+
+title   Sunday Stoop
+bpm     90
+swing   62%
+key     Dm
+style   boombap
+chords  Dm9 Gm7 | Bbmaj7 A7         # one chord per bar, cycled
+
+#         1    2    3    4      1    2    3    4
+kick    | x..o ..x. ..o. .... | x..o .... ..o. x..o |
+snare   | .... x..g .g.. x... | .... x..g .... x.gx |
+hat     | o.o. o.o. o.o. o.o. | o.o. o.o. o.o. o... |
+openhat | .... .... .... .... | .... .... .... ..o. |
+bass    | x..o ..x. ..o. .... | x..o .... ..o. x..o |
+keys    | x... .... ..o. .... | x... ...o .... .... |

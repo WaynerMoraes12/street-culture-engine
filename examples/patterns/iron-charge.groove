@@ -1,0 +1,19 @@
+# Iron Charge: a gallop in the tradition of the New Wave of British Heavy Metal.
+# An eighth plus two sixteenths (x.oo) on kick, bass and power chords: plain guitar
+# hits are palm-muted chugs, '*' lets an open chord ring over the tom run.
+#   street beat --pattern examples/patterns/iron-charge.groove
+
+title   Iron Charge
+bpm     176
+key     Em
+style   gallop
+chords  E5 | D5 | C5 | D5
+
+#         1    2    3    4      1    2    3    4
+guitar  | x.oo x.oo x.oo x.oo | x.oo x.oo *... .... |
+bass    | x.oo x.oo x.oo x.oo | x.oo x.oo x... .... |
+kick    | x.oo x.oo x.oo x.oo | x.oo x.oo x... .... |
+snare   | .... x... .... x... | .... x... xo.. .... |
+ride    | o.o. o.o. o.o. o.o. | o.o. o.o. .... .... |
+crash   | x... .... .... .... | .... .... x... .... |
+tom     | .... .... .... .... | .... .... ..^^ ^oxx |

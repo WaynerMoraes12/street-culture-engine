@@ -1,0 +1,19 @@
+# Bronx 1982: early-80s electro-funk on a TR-808 grid, dead straight. Boom kick,
+# snare and handclap together on 2 and 4, a cowbell riff, accented 16th hats, and a
+# bass that jumps up the octave (^) under off-beat saw stabs.
+#   street beat --pattern examples/patterns/bronx-1982.groove
+
+title   Bronx 1982
+bpm     128
+key     Em
+style   electro
+chords  Em | Em | C | D
+
+#         1    2    3    4      1    2    3    4
+kick    | x... ..x. ..x. .... | x... ..x. .x.. ..o. |
+snare   | .... x... .... x... | .... x... .... x... |
+clap    | .... x... .... x... | .... x... .... x.oo |
+cowbell | ...o ..o. ..o. o... | ...o ..o. ..oo .... |
+hat     | xgog xgog xgog xgog | xgog xgog xgog xgog |
+bass    | x.^. x.^. x.^. o.^. | x..o ..^. x..o ..^. |
+keys    | ...o .... ..o. .... | ...o .... ..o. .o.. |
