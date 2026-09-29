@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: ${{ matrix.name }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Linux · GCC 14
+            os: ubuntu-24.04
+            cxx: g++-14
+            werror: ON
+          - name: Linux · Clang 18 + libc++
+            os: ubuntu-24.04
+            cxx: clang++-18
+            cxxflags: -stdlib=libc++
+            libcxx: true
+            werror: ON
+          - name: Windows · MSVC 2022
+            os: windows-2022
+            werror: ON
+          - name: macOS · Apple Clang
+            os: macos-15
+            werror: OFF
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install libc++
+        if: matrix.libcxx
+        run: sudo apt-get update && sudo apt-get install -y libc++-18-dev libc++abi-18-dev
+
+      - name: Configure
+        shell: bash
+        env:
+          CXX: ${{ matrix.cxx }}
+          CXXFLAGS: ${{ matrix.cxxflags }}
+        run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release -DXO_WARNINGS_AS_ERRORS=${{ matrix.werror }}
+
+      - name: Build
+        run: cmake --build build --config Release --parallel
+
+      - name: Unit tests
+        run: ctest --test-dir build -C Release --output-on-failure
+
+      - name: Smoke-test every command
+        shell: bash
+        run: |
+          exe=build/apps/street/street
+          [ -f "$exe" ] || exe=build/apps/street/Release/street.exe
+          "$exe" --no-color
+          "$exe" beat --style trap --seed 42 --bars 4 --out trap-42.wav --no-color
+          "$exe" bars --sample pt --no-color
+          "$exe" bars --sample tribute --no-color
+          "$exe" beat --style gallop --seed 1983 --bars 2 --dry-run --no-color
+          "$exe" beat --style electro --seed 1982 --bars 2 --dry-run --no-color
+          "$exe" game --seed 7 --no-color
+          "$exe" season --seed 7 --odds 200 --no-color
+          "$exe" teams --no-color
+          "$exe" market --seed 7 --days 30 --no-color
+          "$exe" market --bench 200000 --no-color
+          "$exe" culture --seed 7 --weeks 2 --no-color
+          "$exe" legends --no-color
+
+      - name: Upload the generated beat
+        if: matrix.os == 'ubuntu-24.04' && matrix.cxx == 'g++-14'
+        uses: actions/upload-artifact@v4
+        with:
+          name: trap-beat-seed-42
+          path: trap-42.wav
+
+  sanitizers:
+    name: Linux · ASan + UBSan
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure
+        env:
+          CXX: g++-14
+        run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug -DXO_SANITIZE=ON
+      - name: Build
+        run: cmake --build build --parallel
+      - name: Unit tests
+        env:
+          ASAN_OPTIONS: detect_leaks=1:abort_on_error=1
+          UBSAN_OPTIONS: print_stacktrace=1:halt_on_error=1
+        run: ctest --test-dir build --output-on-failure
