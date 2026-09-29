@@ -1,0 +1,22 @@
+# Build trees
+build/
+build-*/
+out/
+cmake-build-*/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+CMakeUserPresets.json
+
+# Generated media
+*.wav
+mixtape/
+
+# Agent tooling
+.claude/
+
+# Local tooling output
+.playwright-mcp/
