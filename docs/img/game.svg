@@ -1,0 +1,909 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="842" height="1216" viewBox="0 0 842 1216">
+<defs><linearGradient id="crt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a0f2e"/><stop offset="1" stop-color="#0b0716"/></linearGradient><pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.025"/></pattern><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffc400"/><stop offset="0.5" stop-color="#ff4081"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="842" height="1216" rx="10" fill="url(#crt)"/>
+<rect width="842" height="1216" rx="10" fill="url(#scan)"/>
+<rect x="10" y="1213" width="822" height="2" rx="1" fill="url(#neon)" opacity="0.8"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="22" r="6" fill="#27c93f"/>
+<text x="421.0" y="27" text-anchor="middle" fill="#8b949e" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">street game --home QNS --away BRX --seed 7</text>
+<path d="M21.60,145.00 L26.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.80,145.00 L18.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M30.00,145.00 L34.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M31.20,145.00 L26.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M139.20,145.00 L144.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M140.40,145.00 L135.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M147.60,145.00 L152.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M148.80,145.00 L144.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M156.00,145.00 L160.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M157.20,145.00 L152.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M164.40,145.00 L169.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M165.60,145.00 L160.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M172.80,145.00 L177.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M174.00,145.00 L169.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M181.20,145.00 L186.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M182.40,145.00 L177.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M189.60,145.00 L194.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M190.80,145.00 L186.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M198.00,145.00 L202.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M199.20,145.00 L194.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M206.40,145.00 L211.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M207.60,145.00 L202.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M214.80,145.00 L219.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M216.00,145.00 L211.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M223.20,145.00 L228.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M224.40,145.00 L219.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M231.60,145.00 L236.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M232.80,145.00 L228.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M240.00,145.00 L244.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M241.20,145.00 L236.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M248.40,145.00 L253.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M249.60,145.00 L244.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M256.80,145.00 L261.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M258.00,145.00 L253.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M265.20,145.00 L270.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M266.40,145.00 L261.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M273.60,145.00 L278.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M274.80,145.00 L270.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M282.00,145.00 L286.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M283.20,145.00 L278.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M290.40,145.00 L295.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M291.60,145.00 L286.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M298.80,145.00 L303.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M300.00,145.00 L295.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M307.20,145.00 L312.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M308.40,145.00 L303.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M315.60,145.00 L320.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M316.80,145.00 L312.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M324.00,145.00 L328.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M325.20,145.00 L320.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M332.40,145.00 L337.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M333.60,145.00 L328.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M340.80,145.00 L345.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M342.00,145.00 L337.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M349.20,145.00 L354.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M350.40,145.00 L345.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M357.60,145.00 L362.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M358.80,145.00 L354.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M366.00,145.00 L370.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M367.20,145.00 L362.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M374.40,145.00 L379.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M375.60,145.00 L370.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M382.80,145.00 L387.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M384.00,145.00 L379.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M391.20,145.00 L396.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M392.40,145.00 L387.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M399.60,145.00 L404.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M400.80,145.00 L396.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M408.00,145.00 L412.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M409.20,145.00 L404.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M416.40,145.00 L421.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M417.60,145.00 L412.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M424.80,145.00 L429.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M426.00,145.00 L421.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M433.20,145.00 L438.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M434.40,145.00 L429.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M441.60,145.00 L446.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M442.80,145.00 L438.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M450.00,145.00 L454.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M451.20,145.00 L446.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M458.40,145.00 L463.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M459.60,145.00 L454.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M466.80,145.00 L471.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M468.00,145.00 L463.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M475.20,145.00 L480.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M476.40,145.00 L471.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M483.60,145.00 L488.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M484.80,145.00 L480.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M492.00,145.00 L496.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M493.20,145.00 L488.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M500.40,145.00 L505.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M501.60,145.00 L496.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M508.80,145.00 L513.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M510.00,145.00 L505.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M517.20,145.00 L522.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M518.40,145.00 L513.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M525.60,145.00 L530.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M526.80,145.00 L522.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M534.00,145.00 L538.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M535.20,145.00 L530.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M542.40,145.00 L547.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M543.60,145.00 L538.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M550.80,145.00 L555.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M552.00,145.00 L547.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M559.20,145.00 L564.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M560.40,145.00 L555.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M567.60,145.00 L572.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M568.80,145.00 L564.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M576.00,145.00 L580.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M577.20,145.00 L572.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M584.40,145.00 L589.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M585.60,145.00 L580.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M592.80,145.00 L597.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M594.00,145.00 L589.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M601.20,145.00 L606.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M602.40,145.00 L597.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M609.60,145.00 L614.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M610.80,145.00 L606.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M618.00,145.00 L622.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M619.20,145.00 L614.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M626.40,145.00 L631.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M627.60,145.00 L622.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M634.80,145.00 L639.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M636.00,145.00 L631.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M643.20,145.00 L648.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M644.40,145.00 L639.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M651.60,145.00 L656.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M652.80,145.00 L648.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M660.00,145.00 L664.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M661.20,145.00 L656.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M668.40,145.00 L673.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M669.60,145.00 L664.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M676.80,145.00 L681.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M678.00,145.00 L673.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M685.20,145.00 L690.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M686.40,145.00 L681.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M693.60,145.00 L698.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M694.80,145.00 L690.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M702.00,145.00 L706.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M703.20,145.00 L698.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M710.40,145.00 L715.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M711.60,145.00 L706.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M718.80,145.00 L723.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M720.00,145.00 L715.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M727.20,145.00 L732.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M728.40,145.00 L723.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M735.60,145.00 L740.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M736.80,145.00 L732.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M744.00,145.00 L748.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M745.20,145.00 L740.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M752.40,145.00 L757.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M753.60,145.00 L748.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M760.80,145.00 L765.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M762.00,145.00 L757.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M769.20,145.00 L774.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M770.40,145.00 L765.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M777.60,145.00 L782.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M778.80,145.00 L774.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M786.00,145.00 L790.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M787.20,145.00 L782.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M794.40,145.00 L799.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M795.60,145.00 L790.80,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M802.80,145.00 L807.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M804.00,145.00 L799.20,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M811.20,145.00 L816.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M812.40,145.00 L807.60,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M819.60,145.00 L824.40,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M820.80,145.00 L816.00,145.00" stroke="#ff8000" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M26.40,1045.00 L26.40,1045.00 Q22.20,1045.00 22.20,1049.20 L22.20,1054.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M30.00,1045.00 L34.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M31.20,1045.00 L26.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M97.20,1045.00 L102.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M98.40,1045.00 L93.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M105.60,1045.00 L110.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M106.80,1045.00 L102.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M114.00,1045.00 L118.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M115.20,1045.00 L110.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M122.40,1045.00 L127.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M123.60,1045.00 L118.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M130.80,1045.00 L135.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M132.00,1045.00 L127.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M139.20,1045.00 L144.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M140.40,1045.00 L135.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M147.60,1045.00 L152.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M148.80,1045.00 L144.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M156.00,1045.00 L160.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M157.20,1045.00 L152.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M164.40,1045.00 L169.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M165.60,1045.00 L160.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M172.80,1045.00 L177.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M174.00,1045.00 L169.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M181.20,1045.00 L186.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M182.40,1045.00 L177.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M189.60,1045.00 L194.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M190.80,1045.00 L186.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M198.00,1045.00 L202.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M199.20,1045.00 L194.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M206.40,1045.00 L211.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M207.60,1045.00 L202.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M214.80,1045.00 L219.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M216.00,1045.00 L211.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M223.20,1045.00 L228.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M224.40,1045.00 L219.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M231.60,1045.00 L236.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M232.80,1045.00 L228.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M240.00,1045.00 L244.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M241.20,1045.00 L236.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M248.40,1045.00 L253.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M249.60,1045.00 L244.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M256.80,1045.00 L261.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M258.00,1045.00 L253.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M265.20,1045.00 L270.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M266.40,1045.00 L261.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M273.60,1045.00 L278.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M274.80,1045.00 L270.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M282.00,1045.00 L286.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M283.20,1045.00 L278.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M290.40,1045.00 L295.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M291.60,1045.00 L286.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M298.80,1045.00 L303.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M300.00,1045.00 L295.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M307.20,1045.00 L312.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M308.40,1045.00 L303.60,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M315.60,1045.00 L320.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M316.80,1045.00 L312.00,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M324.00,1045.00 L328.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M325.20,1045.00 L320.40,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M332.40,1045.00 L337.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M333.60,1045.00 L328.80,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1054.00 L341.40,1049.20 Q341.40,1045.00 337.20,1045.00 L337.20,1045.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1063.60 L22.20,1054.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1062.40 L22.20,1072.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1063.60 L341.40,1054.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1062.40 L341.40,1072.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1081.60 L22.20,1072.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1080.40 L22.20,1090.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1081.60 L341.40,1072.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1080.40 L341.40,1090.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1099.60 L22.20,1090.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1098.40 L22.20,1108.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1099.60 L341.40,1090.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1098.40 L341.40,1108.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1117.60 L22.20,1108.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1116.40 L22.20,1126.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1117.60 L341.40,1108.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1116.40 L341.40,1126.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1135.60 L22.20,1126.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1134.40 L22.20,1144.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1135.60 L341.40,1126.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1134.40 L341.40,1144.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1153.60 L22.20,1144.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1152.40 L22.20,1162.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1153.60 L341.40,1144.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1152.40 L341.40,1162.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1171.60 L22.20,1162.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1170.40 L22.20,1180.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1171.60 L341.40,1162.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1170.40 L341.40,1180.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M22.20,1180.00 L22.20,1184.80 Q22.20,1189.00 26.40,1189.00 L26.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M30.00,1189.00 L34.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M31.20,1189.00 L26.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M38.40,1189.00 L43.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M39.60,1189.00 L34.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M46.80,1189.00 L51.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M48.00,1189.00 L43.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M55.20,1189.00 L60.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M56.40,1189.00 L51.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M63.60,1189.00 L68.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M64.80,1189.00 L60.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M72.00,1189.00 L76.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M73.20,1189.00 L68.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M80.40,1189.00 L85.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M81.60,1189.00 L76.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M88.80,1189.00 L93.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M90.00,1189.00 L85.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M97.20,1189.00 L102.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M98.40,1189.00 L93.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M105.60,1189.00 L110.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M106.80,1189.00 L102.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M114.00,1189.00 L118.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M115.20,1189.00 L110.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M122.40,1189.00 L127.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M123.60,1189.00 L118.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M130.80,1189.00 L135.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M132.00,1189.00 L127.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M139.20,1189.00 L144.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M140.40,1189.00 L135.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M147.60,1189.00 L152.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M148.80,1189.00 L144.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M156.00,1189.00 L160.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M157.20,1189.00 L152.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M164.40,1189.00 L169.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M165.60,1189.00 L160.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M172.80,1189.00 L177.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M174.00,1189.00 L169.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M181.20,1189.00 L186.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M182.40,1189.00 L177.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M189.60,1189.00 L194.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M190.80,1189.00 L186.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M198.00,1189.00 L202.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M199.20,1189.00 L194.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M206.40,1189.00 L211.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M207.60,1189.00 L202.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M214.80,1189.00 L219.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M216.00,1189.00 L211.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M223.20,1189.00 L228.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M224.40,1189.00 L219.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M231.60,1189.00 L236.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M232.80,1189.00 L228.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M240.00,1189.00 L244.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M241.20,1189.00 L236.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M248.40,1189.00 L253.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M249.60,1189.00 L244.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M256.80,1189.00 L261.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M258.00,1189.00 L253.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M265.20,1189.00 L270.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M266.40,1189.00 L261.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M273.60,1189.00 L278.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M274.80,1189.00 L270.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M282.00,1189.00 L286.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M283.20,1189.00 L278.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M290.40,1189.00 L295.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M291.60,1189.00 L286.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M298.80,1189.00 L303.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M300.00,1189.00 L295.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M307.20,1189.00 L312.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M308.40,1189.00 L303.60,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M315.60,1189.00 L320.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M316.80,1189.00 L312.00,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M324.00,1189.00 L328.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M325.20,1189.00 L320.40,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M332.40,1189.00 L337.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M333.60,1189.00 L328.80,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<path d="M341.40,1180.00 L341.40,1184.80 Q341.40,1189.00 337.20,1189.00 L337.20,1189.00" stroke="#8c8c96" stroke-width="1.2" fill="none" opacity="1.00"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14">
+<text x="18.0" y="59" fill="#8c8c96" textLength="33.6" lengthAdjust="spacingAndGlyphs">seed</text>
+<text x="60.0" y="59" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">7</text>
+<text x="76.8" y="59" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">·</text>
+<text x="93.6" y="59" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">replay:</text>
+<text x="160.8" y="59" fill="#8c8c96" textLength="50.4" lengthAdjust="spacingAndGlyphs">street</text>
+<text x="219.6" y="59" fill="#8c8c96" textLength="33.6" lengthAdjust="spacingAndGlyphs">game</text>
+<text x="261.6" y="59" fill="#8c8c96" textLength="50.4" lengthAdjust="spacingAndGlyphs">--home</text>
+<text x="320.4" y="59" fill="#8c8c96" textLength="25.2" lengthAdjust="spacingAndGlyphs">QNS</text>
+<text x="354.0" y="59" fill="#8c8c96" textLength="50.4" lengthAdjust="spacingAndGlyphs">--away</text>
+<text x="412.8" y="59" fill="#8c8c96" textLength="25.2" lengthAdjust="spacingAndGlyphs">BRX</text>
+<text x="446.4" y="59" fill="#8c8c96" textLength="50.4" lengthAdjust="spacingAndGlyphs">--seed</text>
+<text x="505.2" y="59" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">7</text>
+<text x="34.8" y="95" fill="#fabe14" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bronx</text>
+<text x="85.2" y="95" fill="#fabe14" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats</text>
+<text x="186.0" y="95" fill="#8c8c96" textLength="33.6" lengthAdjust="spacingAndGlyphs">(Run</text>
+<text x="228.0" y="95" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">&amp;</text>
+<text x="244.8" y="95" fill="#8c8c96" textLength="33.6" lengthAdjust="spacingAndGlyphs">Gun)</text>
+<text x="295.2" y="95" fill="#585864" textLength="16.8" lengthAdjust="spacingAndGlyphs">at</text>
+<text x="328.8" y="95" fill="#2563eb" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Queens</text>
+<text x="387.6" y="95" fill="#2563eb" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="446.4" y="95" fill="#2563eb" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="505.2" y="95" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">(Pace</text>
+<text x="555.6" y="95" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">&amp;</text>
+<text x="572.4" y="95" fill="#8c8c96" textLength="50.4" lengthAdjust="spacingAndGlyphs">Space)</text>
+<text x="34.8" y="113" fill="#585864" textLength="25.2" lengthAdjust="spacingAndGlyphs">The</text>
+<text x="68.4" y="113" fill="#585864" textLength="58.8" lengthAdjust="spacingAndGlyphs">Cipher,</text>
+<text x="135.6" y="113" fill="#585864" textLength="50.4" lengthAdjust="spacingAndGlyphs">Queens</text>
+<text x="43.2" y="149" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">HIGHLIGHTS</text>
+<text x="18.0" y="167" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="167" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">12:00</text>
+<text x="127.2" y="167" fill="#8c8c96" textLength="25.2" lengthAdjust="spacingAndGlyphs">0-0</text>
+<text x="186.0" y="167" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="167" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Tip</text>
+<text x="261.6" y="167" fill="#ffc400" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">goes</text>
+<text x="303.6" y="167" fill="#ffc400" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">to</text>
+<text x="328.8" y="167" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="362.4" y="167" fill="#ffc400" textLength="92.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats:</text>
+<text x="463.2" y="167" fill="#ffc400" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;The</text>
+<text x="505.2" y="167" fill="#ffc400" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Wall&quot;</text>
+<text x="555.6" y="167" fill="#ffc400" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">controls</text>
+<text x="631.2" y="167" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">it.</text>
+<text x="18.0" y="185" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="185" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">10:15</text>
+<text x="127.2" y="185" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">2-7</text>
+<text x="186.0" y="185" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="185" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Metaphor&quot;</text>
+<text x="320.4" y="185" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">pulls</text>
+<text x="370.8" y="185" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">up</text>
+<text x="396.0" y="185" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">from</text>
+<text x="438.0" y="185" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="471.6" y="185" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">parking</text>
+<text x="538.8" y="185" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">lot.</text>
+<text x="580.8" y="185" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Are</text>
+<text x="614.4" y="185" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">you</text>
+<text x="648.0" y="185" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">kidding</text>
+<text x="715.2" y="185" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">me?!</text>
+<text x="228.0" y="203" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">(Whitfield</text>
+<text x="320.4" y="203" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">assist)</text>
+<text x="18.0" y="221" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="221" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">08:12</text>
+<text x="118.8" y="221" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">13-11</text>
+<text x="186.0" y="221" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="221" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Pryor</text>
+<text x="278.4" y="221" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">can&#x27;t</text>
+<text x="328.8" y="221" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">miss</text>
+<text x="370.8" y="221" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">right</text>
+<text x="421.2" y="221" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">now.</text>
+<text x="463.2" y="221" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">He&#x27;s</text>
+<text x="505.2" y="221" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="530.4" y="221" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="239" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="239" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">07:39</text>
+<text x="118.8" y="239" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">15-14</text>
+<text x="186.0" y="239" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="239" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Three</text>
+<text x="278.4" y="239" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">straight</text>
+<text x="354.0" y="239" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="387.6" y="239" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Greene.</text>
+<text x="454.8" y="239" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">The</text>
+<text x="488.4" y="239" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">net</text>
+<text x="522.0" y="239" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="547.2" y="239" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">burning!</text>
+<text x="18.0" y="257" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="257" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">07:32</text>
+<text x="118.8" y="257" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">15-14</text>
+<text x="186.0" y="257" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="257" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Ball</text>
+<text x="270.0" y="257" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">hawk</text>
+<text x="312.0" y="257" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Greene</text>
+<text x="370.8" y="257" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">with</text>
+<text x="412.8" y="257" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="446.4" y="257" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">steal.</text>
+<text x="18.0" y="275" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="275" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">07:01</text>
+<text x="118.8" y="275" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">15-14</text>
+<text x="186.0" y="275" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="275" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Get</text>
+<text x="261.6" y="275" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">that</text>
+<text x="303.6" y="275" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">weak</text>
+<text x="345.6" y="275" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">stuff</text>
+<text x="396.0" y="275" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">outta</text>
+<text x="446.4" y="275" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">here!</text>
+<text x="496.8" y="275" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Adeyemi</text>
+<text x="564.0" y="275" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">blocks</text>
+<text x="622.8" y="275" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Nwosu.</text>
+<text x="18.0" y="293" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="293" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">03:36</text>
+<text x="118.8" y="293" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">23-26</text>
+<text x="186.0" y="293" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="293" fill="#c9d1d9" textLength="109.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Second-chance</text>
+<text x="345.6" y="293" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">points:</text>
+<text x="412.8" y="293" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Santana</text>
+<text x="480.0" y="293" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">tips</text>
+<text x="522.0" y="293" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">it</text>
+<text x="547.2" y="293" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">in.</text>
+<text x="18.0" y="311" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="311" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">02:32</text>
+<text x="118.8" y="311" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">25-30</text>
+<text x="186.0" y="311" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="311" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Jenkins</text>
+<text x="295.2" y="311" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">finishes</text>
+<text x="370.8" y="311" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">through</text>
+<text x="438.0" y="311" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Peña,</text>
+<text x="488.4" y="311" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">and</text>
+<text x="522.0" y="311" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="555.6" y="311" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">foul!</text>
+<text x="18.0" y="329" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="329" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">02:09</text>
+<text x="118.8" y="329" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">25-32</text>
+<text x="186.0" y="329" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="329" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Get</text>
+<text x="261.6" y="329" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">that</text>
+<text x="303.6" y="329" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">weak</text>
+<text x="345.6" y="329" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">stuff</text>
+<text x="396.0" y="329" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">outta</text>
+<text x="446.4" y="329" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">here!</text>
+<text x="496.8" y="329" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Brooks</text>
+<text x="555.6" y="329" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">blocks</text>
+<text x="614.4" y="329" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Vance.</text>
+<text x="18.0" y="347" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="347" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:14</text>
+<text x="118.8" y="347" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">30-37</text>
+<text x="186.0" y="347" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="347" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">AND</text>
+<text x="261.6" y="347" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">ONE!</text>
+<text x="303.6" y="347" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Top</text>
+<text x="345.6" y="347" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Rock&quot;</text>
+<text x="396.0" y="347" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">scores</text>
+<text x="454.8" y="347" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">through</text>
+<text x="522.0" y="347" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="555.6" y="347" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">contact</text>
+<text x="622.8" y="347" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">from</text>
+<text x="664.8" y="347" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Subway&quot;!</text>
+<text x="18.0" y="365" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="43.2" y="365" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:00</text>
+<text x="118.8" y="365" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">31-37</text>
+<text x="228.0" y="365" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">End</text>
+<text x="261.6" y="365" fill="#ffc400" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">of</text>
+<text x="286.8" y="365" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="320.4" y="365" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">1st</text>
+<text x="354.0" y="365" fill="#ffc400" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">quarter:</text>
+<text x="429.6" y="365" fill="#ffc400" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="488.4" y="365" fill="#ffc400" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="538.8" y="365" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">37,</text>
+<text x="572.4" y="365" fill="#ffc400" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats</text>
+<text x="664.8" y="365" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">31.</text>
+<text x="18.0" y="383" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="43.2" y="383" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">05:04</text>
+<text x="118.8" y="383" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">45-47</text>
+<text x="186.0" y="383" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="383" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">REJECTED!</text>
+<text x="312.0" y="383" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Nwosu</text>
+<text x="362.4" y="383" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">swats</text>
+<text x="412.8" y="383" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Adeyemi&#x27;s</text>
+<text x="496.8" y="383" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">shot</text>
+<text x="538.8" y="383" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">into</text>
+<text x="580.8" y="383" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="614.4" y="383" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">third</text>
+<text x="664.8" y="383" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">row!</text>
+<text x="18.0" y="401" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="43.2" y="401" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">04:59</text>
+<text x="118.8" y="401" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">45-47</text>
+<text x="186.0" y="401" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="401" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Big</text>
+<text x="270.0" y="401" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Apple&quot;</text>
+<text x="328.8" y="401" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">pins</text>
+<text x="370.8" y="401" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">it</text>
+<text x="396.0" y="401" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">on</text>
+<text x="421.2" y="401" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="454.8" y="401" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">glass!</text>
+<text x="18.0" y="419" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="43.2" y="419" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">04:29</text>
+<text x="118.8" y="419" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">45-47</text>
+<text x="186.0" y="419" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="419" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">REJECTED!</text>
+<text x="312.0" y="419" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Nwosu</text>
+<text x="362.4" y="419" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">swats</text>
+<text x="412.8" y="419" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Mercer&#x27;s</text>
+<text x="488.4" y="419" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">shot</text>
+<text x="530.4" y="419" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">into</text>
+<text x="572.4" y="419" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="606.0" y="419" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">third</text>
+<text x="656.4" y="419" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">row!</text>
+<text x="18.0" y="437" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="43.2" y="437" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">01:01</text>
+<text x="118.8" y="437" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">53-54</text>
+<text x="186.0" y="437" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="437" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Alvarez</text>
+<text x="295.2" y="437" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="320.4" y="437" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="345.6" y="437" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="455" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="43.2" y="455" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:00</text>
+<text x="118.8" y="455" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">53-56</text>
+<text x="228.0" y="455" fill="#ffc400" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Halftime:</text>
+<text x="312.0" y="455" fill="#ffc400" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="370.8" y="455" fill="#ffc400" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="421.2" y="455" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">56,</text>
+<text x="454.8" y="455" fill="#ffc400" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats</text>
+<text x="547.2" y="455" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">53.</text>
+<text x="18.0" y="473" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="473" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">11:09</text>
+<text x="118.8" y="473" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">55-59</text>
+<text x="186.0" y="473" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="473" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Ball</text>
+<text x="270.0" y="473" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">hawk</text>
+<text x="312.0" y="473" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Batista</text>
+<text x="379.2" y="473" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">with</text>
+<text x="421.2" y="473" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="454.8" y="473" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">steal.</text>
+<text x="18.0" y="491" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="491" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">10:58</text>
+<text x="118.8" y="491" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">58-59</text>
+<text x="186.0" y="491" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="491" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Stolen!</text>
+<text x="295.2" y="491" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Quiñones</text>
+<text x="370.8" y="491" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">jumps</text>
+<text x="421.2" y="491" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="454.8" y="491" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">passing</text>
+<text x="522.0" y="491" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">lane.</text>
+<text x="18.0" y="509" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="509" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">09:14</text>
+<text x="118.8" y="509" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">62-59</text>
+<text x="186.0" y="509" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="509" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Stolen!</text>
+<text x="295.2" y="509" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Mercer</text>
+<text x="354.0" y="509" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">jumps</text>
+<text x="404.4" y="509" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="438.0" y="509" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">passing</text>
+<text x="505.2" y="509" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">lane.</text>
+<text x="18.0" y="527" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="527" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">09:11</text>
+<text x="118.8" y="527" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">64-59</text>
+<text x="186.0" y="527" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="527" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Three</text>
+<text x="278.4" y="527" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">straight</text>
+<text x="354.0" y="527" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="387.6" y="527" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Batista.</text>
+<text x="463.2" y="527" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">The</text>
+<text x="496.8" y="527" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">net</text>
+<text x="530.4" y="527" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="555.6" y="527" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">burning!</text>
+<text x="18.0" y="545" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="545" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">08:15</text>
+<text x="118.8" y="545" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">64-67</text>
+<text x="186.0" y="545" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="545" fill="#ff8000" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Metaphor&quot;</text>
+<text x="320.4" y="545" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="345.6" y="545" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="370.8" y="545" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="563" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="563" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">06:54</text>
+<text x="118.8" y="563" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">68-67</text>
+<text x="186.0" y="563" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="563" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Three</text>
+<text x="278.4" y="563" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">straight</text>
+<text x="354.0" y="563" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="387.6" y="563" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Mercer.</text>
+<text x="454.8" y="563" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">The</text>
+<text x="488.4" y="563" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">net</text>
+<text x="522.0" y="563" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="547.2" y="563" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">burning!</text>
+<text x="18.0" y="581" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="581" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">05:50</text>
+<text x="118.8" y="581" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">71-73</text>
+<text x="186.0" y="581" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="581" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">That&#x27;s</text>
+<text x="286.8" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">six</text>
+<text x="320.4" y="581" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">threes</text>
+<text x="379.2" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="412.8" y="581" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Greene.</text>
+<text x="480.0" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Cue</text>
+<text x="513.6" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="547.2" y="581" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Jordan</text>
+<text x="606.0" y="581" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">shrug</text>
+<text x="656.4" y="581" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">from</text>
+<text x="698.4" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="732.0" y="581" fill="#ff8000" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">&#x27;92</text>
+<text x="228.0" y="599" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Finals!</text>
+<text x="18.0" y="617" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="617" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">05:09</text>
+<text x="118.8" y="617" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">71-75</text>
+<text x="186.0" y="617" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="617" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Greene</text>
+<text x="286.8" y="617" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="312.0" y="617" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="337.2" y="617" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="387.6" y="617" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Shades</text>
+<text x="446.4" y="617" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">of</text>
+<text x="471.6" y="617" fill="#ff8000" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">LeBron</text>
+<text x="530.4" y="617" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">scoring</text>
+<text x="597.6" y="617" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">25</text>
+<text x="622.8" y="617" fill="#ff8000" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">straight</text>
+<text x="698.4" y="617" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">against</text>
+<text x="228.0" y="635" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Detroit</text>
+<text x="295.2" y="635" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">in</text>
+<text x="320.4" y="635" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">2007.</text>
+<text x="18.0" y="653" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="653" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">02:16</text>
+<text x="118.8" y="653" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">75-85</text>
+<text x="186.0" y="653" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="653" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Jenkins</text>
+<text x="295.2" y="653" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">says</text>
+<text x="337.2" y="653" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">NOT</text>
+<text x="370.8" y="653" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">IN</text>
+<text x="396.0" y="653" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">MY</text>
+<text x="421.2" y="653" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">HOUSE!</text>
+<text x="18.0" y="671" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="671" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">02:11</text>
+<text x="118.8" y="671" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">75-85</text>
+<text x="186.0" y="671" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="671" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Stolen!</text>
+<text x="295.2" y="671" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Peña</text>
+<text x="337.2" y="671" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">jumps</text>
+<text x="387.6" y="671" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="421.2" y="671" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">passing</text>
+<text x="488.4" y="671" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">lane.</text>
+<text x="18.0" y="689" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="689" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:00</text>
+<text x="118.8" y="689" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">82-89</text>
+<text x="186.0" y="689" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="689" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Wax&quot;</text>
+<text x="278.4" y="689" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">crosses</text>
+<text x="345.6" y="689" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">over</text>
+<text x="387.6" y="689" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Peña</text>
+<text x="429.6" y="689" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">and</text>
+<text x="463.2" y="689" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">drains</text>
+<text x="522.0" y="689" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="555.6" y="689" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">three!</text>
+<text x="614.4" y="689" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">(Santana</text>
+<text x="690.0" y="689" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">assist)</text>
+<text x="757.2" y="689" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">At</text>
+<text x="782.4" y="689" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="228.0" y="707" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">horn!</text>
+<text x="18.0" y="725" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="43.2" y="725" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:00</text>
+<text x="118.8" y="725" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">82-89</text>
+<text x="228.0" y="725" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">End</text>
+<text x="261.6" y="725" fill="#ffc400" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">of</text>
+<text x="286.8" y="725" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="320.4" y="725" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">3rd</text>
+<text x="354.0" y="725" fill="#ffc400" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">quarter:</text>
+<text x="429.6" y="725" fill="#ffc400" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="488.4" y="725" fill="#ffc400" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="538.8" y="725" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">89,</text>
+<text x="572.4" y="725" fill="#ffc400" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats</text>
+<text x="664.8" y="725" fill="#ffc400" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">82.</text>
+<text x="18.0" y="743" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="743" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">10:23</text>
+<text x="118.8" y="743" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">84-93</text>
+<text x="186.0" y="743" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="743" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Jenkins</text>
+<text x="295.2" y="743" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">can&#x27;t</text>
+<text x="345.6" y="743" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">miss</text>
+<text x="387.6" y="743" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">right</text>
+<text x="438.0" y="743" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">now.</text>
+<text x="480.0" y="743" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">He&#x27;s</text>
+<text x="522.0" y="743" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="547.2" y="743" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="761" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="761" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">09:15</text>
+<text x="118.8" y="761" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">86-95</text>
+<text x="186.0" y="761" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="761" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Pryor</text>
+<text x="278.4" y="761" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">picks</text>
+<text x="328.8" y="761" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Alvarez&#x27;s</text>
+<text x="412.8" y="761" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">pocket!</text>
+<text x="18.0" y="779" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="779" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">08:11</text>
+<text x="118.8" y="779" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">90-97</text>
+<text x="186.0" y="779" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="779" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Greene</text>
+<text x="286.8" y="779" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">pokes</text>
+<text x="337.2" y="779" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">it</text>
+<text x="362.4" y="779" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">loose</text>
+<text x="412.8" y="779" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">from</text>
+<text x="454.8" y="779" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;The</text>
+<text x="496.8" y="779" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Wall&quot;</text>
+<text x="547.2" y="779" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">and</text>
+<text x="580.8" y="779" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">takes</text>
+<text x="631.2" y="779" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">off.</text>
+<text x="18.0" y="797" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="797" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">07:34</text>
+<text x="118.8" y="797" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">92-97</text>
+<text x="186.0" y="797" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="797" fill="#ff8000" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Adeyemi</text>
+<text x="295.2" y="797" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">is</text>
+<text x="320.4" y="797" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="345.6" y="797" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="815" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="815" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">03:58</text>
+<text x="110.4" y="815" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">102-104</text>
+<text x="186.0" y="815" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="815" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Reyes</text>
+<text x="278.4" y="815" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">can&#x27;t</text>
+<text x="328.8" y="815" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">miss</text>
+<text x="370.8" y="815" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">right</text>
+<text x="421.2" y="815" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">now.</text>
+<text x="463.2" y="815" fill="#ff8000" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">He&#x27;s</text>
+<text x="505.2" y="815" fill="#ff8000" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">ON</text>
+<text x="530.4" y="815" fill="#ff8000" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FIRE!</text>
+<text x="18.0" y="833" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="833" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">03:42</text>
+<text x="110.4" y="833" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">102-104</text>
+<text x="186.0" y="833" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="833" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Adeyemi</text>
+<text x="295.2" y="833" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">pins</text>
+<text x="337.2" y="833" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">it</text>
+<text x="362.4" y="833" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">on</text>
+<text x="387.6" y="833" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="421.2" y="833" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">glass!</text>
+<text x="18.0" y="851" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="851" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">02:22</text>
+<text x="110.4" y="851" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">107-107</text>
+<text x="186.0" y="851" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="851" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Batista</text>
+<text x="295.2" y="851" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">muscles</text>
+<text x="362.4" y="851" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">it</text>
+<text x="387.6" y="851" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">in</text>
+<text x="412.8" y="851" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">over</text>
+<text x="454.8" y="851" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Whitfield</text>
+<text x="538.8" y="851" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">and</text>
+<text x="572.4" y="851" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">gets</text>
+<text x="614.4" y="851" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="648.0" y="851" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">whistle!</text>
+<text x="18.0" y="869" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="869" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">01:59</text>
+<text x="110.4" y="869" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">110-110</text>
+<text x="186.0" y="869" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="869" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Alley-oop!</text>
+<text x="320.4" y="869" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Batista</text>
+<text x="387.6" y="869" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">lobs</text>
+<text x="429.6" y="869" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">it,</text>
+<text x="463.2" y="869" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Mercer</text>
+<text x="522.0" y="869" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">slams</text>
+<text x="572.4" y="869" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">it!</text>
+<text x="606.0" y="869" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Tie</text>
+<text x="639.6" y="869" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">game!</text>
+<text x="18.0" y="887" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="887" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">01:33</text>
+<text x="110.4" y="887" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">112-111</text>
+<text x="186.0" y="887" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="887" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Backdoor</text>
+<text x="303.6" y="887" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">cut!</text>
+<text x="345.6" y="887" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Headspin&quot;</text>
+<text x="438.0" y="887" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">finds</text>
+<text x="488.4" y="887" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Batista</text>
+<text x="555.6" y="887" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="589.2" y="887" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="622.8" y="887" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">easy</text>
+<text x="664.8" y="887" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">bucket.</text>
+<text x="732.0" y="887" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Go-ahead</text>
+<text x="228.0" y="905" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">bucket!</text>
+<text x="18.0" y="923" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="923" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:37</text>
+<text x="110.4" y="923" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">112-113</text>
+<text x="186.0" y="923" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="923" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">Whitfield</text>
+<text x="312.0" y="923" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">drives</text>
+<text x="370.8" y="923" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">and</text>
+<text x="404.4" y="923" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">dishes,</text>
+<text x="471.6" y="923" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Alvarez</text>
+<text x="538.8" y="923" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">finishes.</text>
+<text x="622.8" y="923" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">The</text>
+<text x="656.4" y="923" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="715.2" y="923" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="765.6" y="923" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">take</text>
+<text x="228.0" y="941" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="261.6" y="941" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">lead!</text>
+<text x="18.0" y="959" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="959" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:22</text>
+<text x="110.4" y="959" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">112-113</text>
+<text x="186.0" y="959" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="959" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">S.</text>
+<text x="253.2" y="959" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Adeyemi</text>
+<text x="320.4" y="959" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">has</text>
+<text x="354.0" y="959" fill="#c9d1d9" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">fouled</text>
+<text x="412.8" y="959" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">out</text>
+<text x="446.4" y="959" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">of</text>
+<text x="471.6" y="959" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="505.2" y="959" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">game.</text>
+<text x="18.0" y="977" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="977" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:22</text>
+<text x="110.4" y="977" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">112-115</text>
+<text x="186.0" y="977" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="228.0" y="977" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">Alvarez</text>
+<text x="295.2" y="977" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">hits</text>
+<text x="337.2" y="977" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">both</text>
+<text x="379.2" y="977" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">free</text>
+<text x="421.2" y="977" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">throws.</text>
+<text x="18.0" y="995" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="995" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">00:04.8</text>
+<text x="110.4" y="995" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">114-117</text>
+<text x="186.0" y="995" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="228.0" y="995" fill="#c9d1d9" textLength="67.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">Backdoor</text>
+<text x="303.6" y="995" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">cut!</text>
+<text x="345.6" y="995" fill="#c9d1d9" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Windmill&quot;</text>
+<text x="438.0" y="995" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">finds</text>
+<text x="488.4" y="995" fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">&quot;Scratch&quot;</text>
+<text x="572.4" y="995" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">for</text>
+<text x="606.0" y="995" fill="#c9d1d9" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">the</text>
+<text x="639.6" y="995" fill="#c9d1d9" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">easy</text>
+<text x="681.6" y="995" fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs" font-weight="bold">bucket.</text>
+<text x="18.0" y="1013" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="43.2" y="1013" fill="#8c8c96" textLength="42.0" lengthAdjust="spacingAndGlyphs">00:00</text>
+<text x="110.4" y="1013" fill="#8c8c96" textLength="58.8" lengthAdjust="spacingAndGlyphs">114-119</text>
+<text x="228.0" y="1013" fill="#ffc400" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">FINAL:</text>
+<text x="286.8" y="1013" fill="#ffc400" textLength="50.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">Bridge</text>
+<text x="345.6" y="1013" fill="#ffc400" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Poets</text>
+<text x="396.0" y="1013" fill="#ffc400" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">119,</text>
+<text x="438.0" y="1013" fill="#ffc400" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">Breakbeats</text>
+<text x="530.4" y="1013" fill="#ffc400" textLength="33.6" lengthAdjust="spacingAndGlyphs" font-weight="bold">114.</text>
+<text x="43.2" y="1049" fill="#c9d1d9" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-weight="bold">FINAL</text>
+<text x="51.6" y="1067" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="93.6" y="1067" fill="#fabe14" textLength="42.0" lengthAdjust="spacingAndGlyphs">Bronx</text>
+<text x="144.0" y="1067" fill="#fabe14" textLength="84.0" lengthAdjust="spacingAndGlyphs">Breakbeats</text>
+<text x="278.4" y="1067" fill="#8c8c96" textLength="25.2" lengthAdjust="spacingAndGlyphs">114</text>
+<text x="51.6" y="1085" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="93.6" y="1085" fill="#2563eb" textLength="50.4" lengthAdjust="spacingAndGlyphs">Queens</text>
+<text x="152.4" y="1085" fill="#2563eb" textLength="50.4" lengthAdjust="spacingAndGlyphs">Bridge</text>
+<text x="211.2" y="1085" fill="#2563eb" textLength="42.0" lengthAdjust="spacingAndGlyphs">Poets</text>
+<text x="278.4" y="1085" fill="#ececec" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">119</text>
+<text x="320.4" y="1085" fill="#ffc400" textLength="8.4" lengthAdjust="spacingAndGlyphs">◄</text>
+<text x="118.8" y="1121" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q1</text>
+<text x="160.8" y="1121" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q2</text>
+<text x="202.8" y="1121" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q3</text>
+<text x="244.8" y="1121" fill="#8c8c96" textLength="16.8" lengthAdjust="spacingAndGlyphs">Q4</text>
+<text x="303.6" y="1121" fill="#8c8c96" textLength="8.4" lengthAdjust="spacingAndGlyphs">T</text>
+<text x="51.6" y="1139" fill="#fabe14" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">BRX</text>
+<text x="118.8" y="1139" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">31</text>
+<text x="160.8" y="1139" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">22</text>
+<text x="202.8" y="1139" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">29</text>
+<text x="244.8" y="1139" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">32</text>
+<text x="286.8" y="1139" fill="#8c8c96" textLength="25.2" lengthAdjust="spacingAndGlyphs">114</text>
+<text x="51.6" y="1157" fill="#2563eb" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">QNS</text>
+<text x="118.8" y="1157" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">37</text>
+<text x="160.8" y="1157" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">19</text>
+<text x="202.8" y="1157" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">33</text>
+<text x="244.8" y="1157" fill="#c9d1d9" textLength="16.8" lengthAdjust="spacingAndGlyphs">30</text>
+<text x="286.8" y="1157" fill="#ececec" textLength="25.2" lengthAdjust="spacingAndGlyphs" font-weight="bold">119</text>
+<text x="51.6" y="1175" fill="#585864" textLength="16.8" lengthAdjust="spacingAndGlyphs">at</text>
+<text x="76.8" y="1175" fill="#585864" textLength="25.2" lengthAdjust="spacingAndGlyphs">The</text>
+<text x="110.4" y="1175" fill="#585864" textLength="58.8" lengthAdjust="spacingAndGlyphs">Cipher,</text>
+<text x="177.6" y="1175" fill="#585864" textLength="50.4" lengthAdjust="spacingAndGlyphs">Queens</text>
+</g></svg>
